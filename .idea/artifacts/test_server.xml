@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="test-server">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_server</output-path>
+    <root id="archive" name="test-server.war" />
+  </artifact>
+</component>
